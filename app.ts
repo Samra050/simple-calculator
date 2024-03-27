@@ -28,3 +28,4 @@ else if (answer.operator === "Division"){
     console.log("Please select valid operator")
 }
 
+console.log("THE END");
